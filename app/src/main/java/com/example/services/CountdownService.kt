@@ -1,4 +1,3 @@
-// app/src/main/java/com/example/services/CountdownService.kt
 package com.example.services
 
 import android.app.Service
